@@ -1,8 +1,12 @@
 # News Articles
 
-News Articles uses TechCrunch API to get News Post
+Demo URL - https://news-articlesapp.vercel.app/
 
-![News Articles Demo](./demo.gif)
+![News Articles Demo](./screenshots/screen1.png)
+
+![News Articles Demo](./screenshots/demo.gif)
+
+News Articles uses TechCrunch API to get News Post
 
 ## How to use
 
